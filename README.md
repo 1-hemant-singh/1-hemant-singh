@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Note: You can replace this placeholder image URL with a custom banner later -->
-  <img src="https://capsule-render.vercel.app/view?type=soft&color=auto&text=Hemant%20Singh&fontSize=40&animation=fadeIn" alt="Hemant Singh Banner" width="100%">
+  <img src="https://c.ndtvimg.com/2022-12/mb94v9m8_pikachu-and-ash-to-leave-pokemon-after-25-years_625x300_17_December_22.jpg" alt="Ash and Pikachu Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 <p align="center">
