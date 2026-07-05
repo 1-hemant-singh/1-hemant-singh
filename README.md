@@ -1,40 +1,119 @@
-<p align="center">
-  <img src="./image.png" alt="Ash and Pikachu Banner" width="100%" style="border-radius: 8px;">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Hemant Singh 👋</h1>
-<p align="center">
-  <strong>Computer Science & Engineering Student | Low-Level Systems Enthusiast | Full-Stack Developer</strong>
-</p>
+<img src="./image.png" alt="Profile Banner" width="100%" style="border-radius: 8px;">
 
-<p align="center">
-  <a href="https://github.com/1-hemant-singh"><img src="https://img.shields.io/github/followers/1-hemant-singh?label=Follow&style=social" alt="GitHub Follow"></a>
+<br/>
+
+```text
+██╗  ██╗███████╗███╗   ███╗███████╗███╗   ██╗████████╗
+██║  ██║██╔════╝████╗ ████║██╔════╝████╗  ██║╚══██╔══╝
+███████║█████╗  ██╔████╔██║███████╗██╔██╗ ██║   ██║   
+██╔══██║██╔══╝  ██║╚██╔╝██║██╔════╝██║╚██╗██║   ██║   
+██║  ██║███████╗██║ ╚═╝ ██║██║     ██║ ╚████║   ██║   
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═══╝   ╚═╝   
+```
+**B.Tech Information Technology @ IIIT Allahabad ('28) • Minor in Entrepreneurship**
+<br/>
+*Systems Programming • Full-Stack Architecture • Competitive Programming*
+
+</div>
+
+---
+
+### `~/profile/about.ts`
+
+```typescript
+/** 
+ * @author  Hemant Singh 
+ * @college IIIT Allahabad — IT 
+ * @status  Building · Compiling · Optimizing
+ */
+const hemant = {
+
+  stack: {
+    languages : ["C++17", "C", "JavaScript", "TypeScript", "SQL"],
+    frontend  : ["React.js", "Next.js", "TailwindCSS", "Redux Toolkit"],
+    backend   : ["Node.js", "Express.js", "REST APIs"],
+    databases : ["MongoDB", "PostgreSQL", "MySQL", "Appwrite"],
+    systems   : ["Linux/Ubuntu", "Wayland/Hyprland", "xv6-riscv"],
+  },
+
+  currently: [
+    "Architecting a relational DB engine in C++ with B+ Tree indexing",
+    "Deep diving into OS kernels & buffer pool management",
+    "Developing Vidyarthi-Awas trust ecosystem for student housing",
+  ],
+
+  achievements: [
+    "JEE Main 2024: AIR 6711 (99.58 %ile) out of 1.1M+",
+    "JEE Advanced 2024: AIR 10962",
+    "Perfect 10/10 in core university Math modules",
+  ],
+
+  openTo    : ["SDE Roles", "Systems Engineering", "Open Source Collaborations"],
+  belief    : "Write clean code. Optimize to O(log N). Build from first principles.",
+
+} satisfies Developer;
+```
+
+---
+
+### `⬡` Tech Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,react,nextjs,nodejs,express,mongodb,mysql,linux,git,bash&perline=15" />
 </p>
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- Left Column: Code Block Info -->
-    <td width="55%" valign="top">
+### `◈` Algorithmic Progress
 
-```typescript
-/**
- * @author  Hemant Singh
- * @status  Building • Learning • Optimization
- */
+Solving problems at the lowest level of abstraction. Consistency and mathematical logic are the baseline.
 
-const hemant = {
-    stack: {
-        languages: ["C++", "JavaScript", "TypeScript", "Python"],
-        frontend:  ["React", "TailwindCSS", "Next.js"],
-        backend:   ["Node.js", "Express", "PostgreSQL", "MongoDB"],
-        systems:   ["Linux/Ubuntu", "Wayland/Hyprland", "xv6-riscv"]
-    },
-    currently: [
-        "Building a mini relational database engine from scratch",
-        "Deep diving into operating system kernels & DB internals",
-        "Solving algorithmic challenges & refining low-level optimization"
-    ],
-    belief: "Write clean code. Optimize to O(1) if possible. Keep exploring."
-};
+*   **Codeforces:** 300+ problems solved (Focus: Combinatorics, Number Theory, Math Logic)
+*   **LeetCode:** 200+ problems solved (Focus: DP, Graphs, Trees)
+*   *Custom C++ Boilerplate configured for rapid competitive deployment.*
+
+---
+
+### `⟁` What I'm Building
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  project              │  stack / tools              │  status               │
+├───────────────────────┼─────────────────────────────┼───────────────────────┤
+│  MiniDB Engine        │  C++17 · B+ Trees · LRU     │  [compiling...]       │
+│  Vidyarthi-Awas       │  Next.js · Node · DB        │  [architecting...]    │
+│  MOOI Blog Platform   │  MERN · Redux · Cloudinary  │  [deployed]           │
+│  xv6 Kernel Mods      │  C · RISC-V · pthreads      │  [researching...]     │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `▲` Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-hemant-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1-hemant-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+</p>
+
+---
+
+### `⌬` Connect
+
+<p align="left">
+  <a href="https://github.com/1-hemant-singh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/hemant-singh-069237303">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:iit2024047@iiita.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Still compiling...</em>
+</p>
