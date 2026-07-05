@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://c.ndtvimg.com/2022-12/mb94v9m8_pikachu-and-ash-to-leave-pokemon-after-25-years_625x300_17_December_22.jpg" alt="Ash and Pikachu Banner" width="100%" style="border-radius: 8px;">
+  <img src="./image.png" alt="Ash and Pikachu Banner" width="100%" style="border-radius: 8px;">
+</p>
+
+<h1 align="center">Hi, I'm Hemant Singh 👋</h1>
+<p align="center">
+  <strong>Computer Science & Engineering Student | Low-Level Systems Enthusiast | Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  <strong>Computer Science & Engineering • Systems, Backend & Competitive Programming</strong>
+  <a href="https://github.com/1-hemant-singh"><img src="https://img.shields.io/github/followers/1-hemant-singh?label=Follow&style=social" alt="GitHub Follow"></a>
 </p>
 
 ---
@@ -11,7 +16,7 @@
 <table width="100%">
   <tr>
     <!-- Left Column: Code Block Info -->
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 ```typescript
 /**
