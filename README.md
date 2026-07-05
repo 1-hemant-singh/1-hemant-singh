@@ -5,12 +5,12 @@
 <br/>
 
 ```text
-██╗  ██╗███████╗███╗   ███╗███████╗███╗   ██╗████████╗
-██║  ██║██╔════╝████╗ ████║██╔════╝████╗  ██║╚══██╔══╝
-███████║█████╗  ██╔████╔██║███████╗██╔██╗ ██║   ██║   
-██╔══██║██╔══╝  ██║╚██╔╝██║██╔════╝██║╚██╗██║   ██║   
-██║  ██║███████╗██║ ╚═╝ ██║██║     ██║ ╚████║   ██║   
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═══╝   ╚═╝   
+ ██╗  ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗████████╗
+ ██║  ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝
+ ███████║█████╗  ██╔████╔██║███████║██╔██╗ ██║   ██║   
+ ██╔══██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   
+ ██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   
+ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
 ```
 **B.Tech Information Technology @ IIIT Allahabad ('28) • Minor in Entrepreneurship**
 <br/>
@@ -41,7 +41,7 @@ const hemant = {
   currently: [
     "Architecting a relational DB engine in C++ with B+ Tree indexing",
     "Deep diving into OS kernels & buffer pool management",
-    "Developing Vidyarthi-Awas trust ecosystem for student housing",
+    "Building Splitzy — a full-stack Next.js application",
   ],
 
   achievements: [
@@ -50,7 +50,7 @@ const hemant = {
     "Perfect 10/10 in core university Math modules",
   ],
 
-  openTo    : ["SDE Roles", "Systems Engineering", "Open Source Collaborations"],
+  openTo    : ["SDE Roles", "Systems Engineering"],
   belief    : "Write clean code. Optimize to O(log N). Build from first principles.",
 
 } satisfies Developer;
@@ -83,20 +83,11 @@ Solving problems at the lowest level of abstraction. Consistency and mathematica
 │  project              │  stack / tools              │  status               │
 ├───────────────────────┼─────────────────────────────┼───────────────────────┤
 │  MiniDB Engine        │  C++17 · B+ Trees · LRU     │  [compiling...]       │
-│  Vidyarthi-Awas       │  Next.js · Node · DB        │  [architecting...]    │
+│  Splitzy              │  Next.js · Full Stack       │  [building...]        │
 │  MOOI Blog Platform   │  MERN · Redux · Cloudinary  │  [deployed]           │
 │  xv6 Kernel Mods      │  C · RISC-V · pthreads      │  [researching...]     │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-### `▲` Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-hemant-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1-hemant-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-</p>
 
 ---
 
