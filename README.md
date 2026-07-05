@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <!-- Note: You can replace this placeholder image URL with a custom banner later -->
+  <img src="https://capsule-render.vercel.app/view?type=soft&color=auto&text=Hemant%20Singh&fontSize=40&animation=fadeIn" alt="Hemant Singh Banner" width="100%">
+</p>
 
-<!--
-**1-hemant-singh/1-hemant-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Computer Science & Engineering • Systems, Backend & Competitive Programming</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <tr>
+    <!-- Left Column: Code Block Info -->
+    <td width="60%" valign="top">
+
+```typescript
+/**
+ * @author  Hemant Singh
+ * @status  Building • Learning • Optimization
+ */
+
+const hemant = {
+    stack: {
+        languages: ["C++", "JavaScript", "TypeScript", "Python"],
+        frontend:  ["React", "TailwindCSS", "Next.js"],
+        backend:   ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+        systems:   ["Linux/Ubuntu", "Wayland/Hyprland", "xv6-riscv"]
+    },
+    currently: [
+        "Building a mini relational database engine from scratch",
+        "Deep diving into operating system kernels & DB internals",
+        "Solving algorithmic challenges & refining low-level optimization"
+    ],
+    belief: "Write clean code. Optimize to O(1) if possible. Keep exploring."
+};
